@@ -42,15 +42,15 @@ If you’d like to use the repository from source, you can either install from g
 To install via git:
 
 ```sh
-$ npm install git+ssh://git@github.com:stainless-sdks/googletranslate-node.git
+$ npm install git+ssh://git@github.com:asjones-code/googletranslatestainless.git
 ```
 
 Alternatively, to link a local copy of the repo:
 
 ```sh
 # Clone
-$ git clone https://www.github.com/stainless-sdks/googletranslate-node
-$ cd googletranslate-node
+$ git clone https://www.github.com/asjones-code/googletranslatestainless
+$ cd googletranslatestainless
 
 # With yarn
 $ yarn link
